@@ -14,4 +14,4 @@ LAP | Week(s) | Overview |
 ***
 ![futureproof favicon](https://res.cloudinary.com/getfutureproof/image/upload/v1595323158/favicon_r7jazg.png)   
 
-### Not sure where to start? How about a complete >> [Course Overview](https://github.com/getfutureproof/fp_guides_wiki/wiki/futureproof) <<
+### Not sure where to start? How about a complete >> [Course Overview](https://github.com/getfutureproof/fp_guides_wiki/wiki/Overview) <<
