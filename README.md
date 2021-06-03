@@ -4,6 +4,7 @@ Here you will find guides and notes on the topics covered on the [futureproof](h
 
 LAP | Week(s) | Overview | 
 ---- | ------ | ------- |
+[Pre-work](https://github.com/getfutureproof/fp_guides_wiki/wiki/Pre-work) | Pre-course | Environment setup
 [Warm Up](https://github.com/getfutureproof/fp_guides_wiki/wiki/Warm-Up-Week) | 1 | Intro to the Web, HTML, CSS and dev skills
 [LAP 1](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-1) | 2 - 4 | Programming principles and JavaScript
 [LAP 2](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-2) | 5 - 7 | Databases, cyber security and architecture
