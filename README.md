@@ -1,4 +1,4 @@
-[![futureproof logo](https://res.cloudinary.com/getfutureproof/image/upload/v1595323029/futureproof_logotype_withBleed_huge_kl2rol.png)](https://getfutureproof.co.uk/)
+[![futureproof logo](https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/brand-assets/logo.png)](https://getfutureproof.co.uk/)
 # Welcome to the futureproof study wiki!
 Here you will find guides and notes on the topics covered on the [futureproof](https://getfutureproof.co.uk/) coding course.
 
@@ -13,6 +13,9 @@ LAP | Week(s) | Overview |
 
 
 ***
-![futureproof favicon](https://res.cloudinary.com/getfutureproof/image/upload/v1595323158/favicon_r7jazg.png)   
+![futureproof angles device](https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/brand-assets/shapes/angles-violet-50.png)
+![futureproof cog device](https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/brand-assets/shapes/cog-lime-50.png)
+![futureproof star device](https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/brand-assets/shapes/star-coral-50.png)
+![futureproof shield device](https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/brand-assets/shapes/shield-lemon-50.png)  
 
 ### Not sure where to start? How about a complete >> [Course Overview](https://github.com/getfutureproof/fp_guides_wiki/wiki/Overview) <<
