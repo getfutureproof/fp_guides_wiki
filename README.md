@@ -1,5 +1,5 @@
 [![futureproof logo](https://futureproof-public-documents.s3.eu-west-2.amazonaws.com/brand-assets/logo.png)](https://getfutureproof.co.uk/)
-# Welcome to the futureproof study wiki!
+# Welcome to La Fosse Academy study wiki!
 Here you will find guides and notes on the topics covered on the [futureproof](https://getfutureproof.co.uk/) coding course.
 
 LAP | Week(s) | Overview | 
