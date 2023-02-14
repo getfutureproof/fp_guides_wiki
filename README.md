@@ -2,8 +2,8 @@
 # Welcome to La Fosse Academy study wiki!
 Here you will find guides and notes on the topics covered on the [La Fosse Academy](https://getfutureproof.co.uk/) coding course.
 
-LAP | Week(s) | Overview | 
----- | ------ | ------- |
+| LAP | Week(s) | Overview | 
+|:---:|:-------:|:--------:|
 [Pre-work](https://github.com/getfutureproof/fp_guides_wiki/wiki/Pre-work) | Pre-course | Environment setup
 [LAP 1](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-1) | 1 - 3 | Programming principles, HTML, CSS and JavaScript
 [LAP 2](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-2) | 4 - 6 | Databases, cyber security and architecture
