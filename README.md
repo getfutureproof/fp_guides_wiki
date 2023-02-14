@@ -1,6 +1,6 @@
 
 # Welcome to La Fosse Academy study wiki!
-Here you will find guides and notes on the topics covered on the [futureproof](https://getfutureproof.co.uk/) coding course.
+Here you will find guides and notes on the topics covered on the [La Fosse Academy](https://getfutureproof.co.uk/) coding course.
 
 LAP | Week(s) | Overview | 
 ---- | ------ | ------- |
