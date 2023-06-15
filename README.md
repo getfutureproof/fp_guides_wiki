@@ -8,7 +8,7 @@ Here you will find guides and notes on the topics covered on the [La Fosse Acade
 [LAP 1](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-1) | 1 - 3 | Foundations: Learn and apply fundamental approaches and transferable skills
 [LAP 2](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-2) | 4 - 6 | Delivery: Build an end-to-end project that solves a problem
 [LAP 3](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-3) | 7 - 9 | Disciplines: Gain deeper understand in a specific area
-[LAP 4](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-4) | 10 - 12 | Integration: Practice interdisclinary communication & collaboration. Extend cross discipline skills
+[LAP 4](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-4) | 10 - 12 | Integration: Practice interdisciplinary communication & collaboration. Extend cross discipline skills
 
 
 ***
