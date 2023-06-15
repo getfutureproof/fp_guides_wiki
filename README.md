@@ -4,11 +4,11 @@ Here you will find guides and notes on the topics covered on the [La Fosse Acade
 
 | LAP | Week(s) | Overview | 
 |:---:|:-------:|:--------:|
-[Pre-work](https://github.com/getfutureproof/fp_guides_wiki/wiki/Pre-work) | Pre-course | Environment setup
-[LAP 1](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-1) | 1 - 3 | Programming principles, HTML, CSS and JavaScript
-[LAP 2](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-2) | 4 - 6 | Databases, cyber security and architecture
-[LAP 3](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-3) | 7 - 9 | React, TDD, and environment management
-[LAP 4](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-4) | 10 - 12 | Python and principles of data science
+[Pre-work](https://github.com/getfutureproof/fp_guides_wiki/wiki/Pre-work) | Prep work | Environment setup and getting ready to start our Academy
+[LAP 1](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-1) | 1 - 3 | Foundations: Learn and apply fundamental approaches and transferable skills
+[LAP 2](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-2) | 4 - 6 | Delivery: Build an end-to-end project that solves a problem
+[LAP 3](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-3) | 7 - 9 | Disciplines: Gain deeper understand in a specific area
+[LAP 4](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-4) | 10 - 12 | Integration: Practice interdisclinary communication & collaboration. Extend cross discipline skills
 
 
 ***
